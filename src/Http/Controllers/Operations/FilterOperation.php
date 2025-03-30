@@ -82,9 +82,9 @@ trait FilterOperation
                             ],
                         ]);
                         break;
-                    
+
                     case 'hidden':
-                        // dont validate hidden.
+                        // do nothing.
                         break;
 
                     default:
