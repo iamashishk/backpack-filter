@@ -1,5 +1,6 @@
 {
     "name": "iamashishk/backpack-filter",
+    "version": "1.0.0",
     "description": "Laravel backpack free filter without buying pro version.",
     "license": "MIT",
     "authors": [
