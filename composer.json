@@ -1,15 +1,15 @@
 {
-    "name": "winex01/backpack-filter",
+    "name": "iamashishk/backpack-filter",
     "description": "Laravel backpack free filter without buying pro version.",
     "license": "MIT",
     "authors": [
         {
             "name": "Winnie A. Damayo",
             "email": "winnie131212592@gmail.com",
-            "homepage": "https://github.com/winex01"
+            "homepage": "https://github.com/iamashishk"
         }
     ],
-    "homepage": "https://github.com/winex01/backpack-filter",
+    "homepage": "https://github.com/iamashishk/backpack-filter",
     "keywords": [
         "Laravel", "Backpack", "Backpack for Laravel", "Backpack Addon", "Backpack Filter", "Backpack Free Filter"
     ],
